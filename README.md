@@ -25,7 +25,7 @@ to customise your fastfetch you just need to change
      ~/.config/fastfetch/config.jsonc
      
 
-# logo 
+# custom logo
  ```bash
      "logo": {
   "type": "file",
