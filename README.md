@@ -6,14 +6,19 @@ https://github.com/fastfetch-cli/fastfetch
 
 or
 
-Ubuntu: ppa:zhangsongcui3371/fastfetch (Ubuntu 22.04 or newer; latest version)
-Debian / Ubuntu: apt install fastfetch (Debian 13 or newer; Ubuntu 25.04 or newer)
-Debian / Ubuntu: Download fastfetch-linux-<proper architecture>.deb from Github release page and double-click it (for Ubuntu 20.04 or newer and Debian 11 or newer).
-Arch Linux: pacman -S fastfetch
-Fedora: dnf install fastfetch
-Gentoo: emerge --ask app-misc/fastfetch
-Alpine: apk add --upgrade fastfetch
-NixOS: nix-shell -p fastfetch
+* Arch Linux: `pacman -S fastfetch`
+* Fedora: `dnf install fastfetch`
+* Gentoo: `emerge --ask app-misc/fastfetch`
+* Alpine: `apk add --upgrade fastfetch`
+* NixOS: `nix-shell -p fastfetch`
+* openSUSE: `zypper install fastfetch`
+* ALT Linux: `apt-get install fastfetch`
+* Exherbo: `cave resolve --execute app-misc/fastfetch`
+* Solus: `eopkg install fastfetch`
+* Slackware: `sbopkg -i fastfetch`
+* Void Linux: `xbps-install fastfetch`
+* Venom Linux: `scratch install fastfetch`
+
 
 to customise your fastfetch you just need to change 
 
